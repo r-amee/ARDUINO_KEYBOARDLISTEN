@@ -10,6 +10,8 @@ FOR ANACONDA:
 
 ```conda activate arduinoKB```
 
+INSTALL PACKAGES
+
 ```pip install pyserial```
 
 ```pip install keyboard```
