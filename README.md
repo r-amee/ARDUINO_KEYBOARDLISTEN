@@ -10,8 +10,8 @@ FOR ANACONDA:
 
 ```conda activate arduinoKB```
 
-```pip install pyserial
-pip install keyboard```
+```pip install pyserial```
+```pip install keyboard```
 
 TO RUN:
 
