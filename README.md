@@ -6,13 +6,13 @@ FOR PYTHON, USE ANACONDA OR PREFERRED VIRTUAL ENVIRONMENT
 
 FOR ANACONDA:
 
-conda create -n arduinoKB python=3.10 -y
+```conda create -n arduinoKB python=3.10 -y```
 
-conda activate arduinoKB
+```conda activate arduinoKB```
 
-pip install pyserial
-pip install keyboard
+```pip install pyserial
+pip install keyboard```
 
 TO RUN:
 
-python arduino_kblisten.py
+```python arduino_kblisten.py```
